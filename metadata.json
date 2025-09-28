@@ -1,0 +1,5 @@
+{
+  "name": "Marwan AI Image Generator",
+  "description": "An AI-powered image generation tool that applies the artistic style of one image to another personal image, with options for further edits. Built with React and Gemini.",
+  "requestFramePermissions": []
+}
